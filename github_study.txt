@@ -1,0 +1,9 @@
+#include<iostream>
+
+int main()
+{
+	cout<<"‚±‚ñ‚É‚¿‚Í"<<endl;
+
+
+	return 0;
+}
