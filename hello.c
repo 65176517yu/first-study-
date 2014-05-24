@@ -1,11 +1,9 @@
-#include <iostream>
-
-using namespace std;
+#include <stdio.h>
 
 int main()
 {
 	for(int i=0;i<10;i++){
-		cout << "hello" << endl;
+		printf("hello world\n");
 	}
 	return 0;
 }
