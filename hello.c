@@ -1,12 +1,11 @@
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
 
 int main()
 {
-	int i;
-	for(i=0;i<10;i++){
-		printf("hello world\n");
+	for(int i=0;i<10;i++){
+		cout << "hello" << endl;
 	}
-	printf("aaa");
-
 	return 0;
 }
