@@ -2,16 +2,11 @@
 
 int main()
 {
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
+	int i = 0;
 
+	while (i<10){
+		printf("hello world\n");
+		i++;
+	}
 	return 0;
 }
